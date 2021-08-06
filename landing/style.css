@@ -1,0 +1,64 @@
+
+h1{
+  font-family: 'Quicksand', sans-serif;
+  color: #F2FF49;
+  font-weight: lighter;
+  font-size: 72px;
+}
+h2 {
+  font-family: HindSiliguri;
+  color: #3AB795;
+  font-size: 24px;
+}
+
+body{
+  background: rgb(245,245,245);
+  color: #3AB795;
+  font-size: 16px;
+  font-family: HindSiliguri;
+}
+
+a {
+  color: #DDF0FF;
+}
+a:hover {
+  text-decoration: none;
+  color: #326273;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/id/1019/1300/600");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner p {
+  color: #F2FF49;
+  opacity: 1;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+.item{
+  padding: 50px;
+  font-weight: lighter;
+  text-align:  center;
+}
